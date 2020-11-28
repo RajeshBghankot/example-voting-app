@@ -3,7 +3,7 @@ Example Voting App
 
 A simple distributed application running across multiple Docker containers.
 
-Awesome coding. hello
+Awesome coding. hello hjy
 
 Getting started
 ---------------
